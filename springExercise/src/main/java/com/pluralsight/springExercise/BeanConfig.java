@@ -13,6 +13,6 @@ public class BeanConfig {
     }
     @Bean
     public String spellDescription2(){
-        return "2nd Love Spell";
+        return "Stronger Love Spell";
     }
 }
